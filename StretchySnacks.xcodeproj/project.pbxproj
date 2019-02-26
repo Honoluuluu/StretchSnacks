@@ -12,6 +12,7 @@
 		CDAAC679221F16070012B2A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDAAC677221F16070012B2A5 /* Main.storyboard */; };
 		CDAAC67B221F16080012B2A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDAAC67A221F16080012B2A5 /* Assets.xcassets */; };
 		CDAAC67E221F16080012B2A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDAAC67C221F16080012B2A5 /* LaunchScreen.storyboard */; };
+		CDAAC686221F44C20012B2A5 /* FoodNameTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDAAC685221F44C20012B2A5 /* FoodNameTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CDAAC67A221F16080012B2A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDAAC67D221F16080012B2A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CDAAC67F221F16080012B2A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDAAC685221F44C20012B2A5 /* FoodNameTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodNameTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				CDAAC673221F16070012B2A5 /* AppDelegate.swift */,
 				CDAAC675221F16070012B2A5 /* ViewController.swift */,
+				CDAAC685221F44C20012B2A5 /* FoodNameTableViewCell.swift */,
 				CDAAC677221F16070012B2A5 /* Main.storyboard */,
 				CDAAC67A221F16080012B2A5 /* Assets.xcassets */,
 				CDAAC67C221F16080012B2A5 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				CDAAC676221F16070012B2A5 /* ViewController.swift in Sources */,
 				CDAAC674221F16070012B2A5 /* AppDelegate.swift in Sources */,
+				CDAAC686221F44C20012B2A5 /* FoodNameTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
